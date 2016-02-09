@@ -12,4 +12,4 @@ android:
     - android-23
 
 script:
-    - ./gradlew build connectedCheck
+    - bash gradlew build connectedCheck
